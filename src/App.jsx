@@ -1,13 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
     <div>
-      <h1>Nma gap</h1>
-      <p>ansor hunu</p>
-      <p>Sasha чушпан</p>
+      <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
